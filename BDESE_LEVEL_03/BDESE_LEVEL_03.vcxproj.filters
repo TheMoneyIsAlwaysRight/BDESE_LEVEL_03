@@ -36,5 +36,8 @@
     <ClCompile Include="Start.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="00.Introduce_Programming_Language.cpp">
+      <Filter>소스 파일\0.Programming_Language_Theory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

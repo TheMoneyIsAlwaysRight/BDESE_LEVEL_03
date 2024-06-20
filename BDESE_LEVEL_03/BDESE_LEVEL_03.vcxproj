@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="00.Introduce_Programming_Language.cpp" />
     <ClCompile Include="Start.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
