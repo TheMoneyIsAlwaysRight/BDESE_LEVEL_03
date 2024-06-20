@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="00.Introduce_Programming_Language.cpp" />
+    <ClCompile Include="01.Syntax.cpp" />
     <ClCompile Include="Start.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

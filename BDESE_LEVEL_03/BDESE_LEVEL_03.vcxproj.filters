@@ -39,5 +39,8 @@
     <ClCompile Include="00.Introduce_Programming_Language.cpp">
       <Filter>소스 파일\0.Programming_Language_Theory</Filter>
     </ClCompile>
+    <ClCompile Include="01.Syntax.cpp">
+      <Filter>소스 파일\0.Programming_Language_Theory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
